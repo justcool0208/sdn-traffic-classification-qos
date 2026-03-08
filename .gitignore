@@ -1,0 +1,5 @@
+venv/
+.ipynb_checkpoints/
+saved_models/
+*.pkl
+*.joblib
